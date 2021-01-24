@@ -1,7 +1,10 @@
 # Ionix
 
 Ionix is a customized monospaced font based on Iosevka, a Node.JS-generated monospaced font developed by @be5invis. Current version is 5.0.beta.1.
-Combines many ideas from different programming fonts such as Fira Code, Gintronic, Recursive Mono, Novel Mono Pro, Vivala Code, Dank Mono, TheMix Mono, ITC Avant Garde Mono, Rotis Semi Serif, League Mono and countless others. Enjoy.
+
+It combines many ideas from different programming fonts such as Fira Code, Gintronic, Recursive Mono, Novel Mono Pro, Vivala Code, Dank Mono, TheMix Mono, ITC Avant Garde Mono, Rotis Semi Serif, League Mono and countless others. Enjoy.
+
+The font contains 9 weights across 5 widths with italics, and also a Sans and Slab counterpart.
 
 ### How to build the fonts manually
 
